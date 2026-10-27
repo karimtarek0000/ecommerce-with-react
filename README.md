@@ -1,4 +1,4 @@
-# Karma
+# Karma e-commerce with React
 
 Karma is a React storefront for browsing products by category, managing a
 shopping cart and wishlist, and placing and reviewing orders. It includes
